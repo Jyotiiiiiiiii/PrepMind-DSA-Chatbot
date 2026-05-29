@@ -80,10 +80,6 @@ GROQ_API_KEY=your_api_key_here
 
 streamlit run app.py
 
-
-App will open at:
-http://localhost:8501
-
 ---
 
 ## 🧠 Example Questions
@@ -109,16 +105,3 @@ Use environment variables for all secrets.
 - Add more DSA topic coverage
 
 ---
-
-## 👤 Author
-
-Your Name  
-B.Tech CSE  
-
-IMPORTANT
-Replace:
-
-YOUR_USERNAME
-Your Name
-
-with your actual details.
